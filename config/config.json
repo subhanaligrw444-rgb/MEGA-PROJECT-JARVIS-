@@ -1,0 +1,8 @@
+{
+  "assistant_name": "Jarvis",
+  "model_path": "models/vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "listen_timeout_seconds": 8,
+  "speech_rate": 175,
+  "speech_volume": 1.0
+}
